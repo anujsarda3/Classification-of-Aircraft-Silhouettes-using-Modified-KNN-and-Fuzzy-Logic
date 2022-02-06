@@ -1,1 +1,3 @@
-this is a git setup on linux
+#Execution command for program
+
+mpiexec -n (number of processors) python (filename) --size (size of vector)
